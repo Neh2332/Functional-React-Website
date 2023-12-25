@@ -3,23 +3,6 @@
 
 # SuperCoolJobs
 
-<ins>**_SOFE3700U final project_**</ins>
-
-<ins>_Wednesday, November 22, 2023_</ins>
-
-**Deployed @ [http://jeremymark.ca/](http://jeremymark.ca/)**
-
-| Name                    | Student Number |
-| ----------------------- | -------------- |
-| Jeremy Mark Tubongbanua | 100849092      |
-| Noah Toma               | 100825559      |
-| Nehmat Farooq           | 100819864      |
-| Jerry Shum              | 100845217      |
-
-_Group No.: 9_
-
-_CRN: 43511_
-
 </div>
 <br>
 
